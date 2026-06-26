@@ -428,11 +428,11 @@ Featured Projects
   whileHover={{ scale: 1.03, y: -10 }}
   className="bg-gray-900/70 backdrop-blur-lg border border-gray-800 rounded-2xl overflow-hidden"
 >
-  <img
-    src="/proctoring-system.png"
-    alt="Exam Proctoring"
-    className="w-full h-52 object-cover"
-  />
+ <img
+  src="/proctoring-system.png"
+  alt="Exam Proctoring System"
+  className="w-full h-52 object-cover"
+/>
 
   <div className="p-6">
 
