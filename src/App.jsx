@@ -429,7 +429,7 @@ Featured Projects
   className="bg-gray-900/70 backdrop-blur-lg border border-gray-800 rounded-2xl overflow-hidden"
 >
  <img
-  src="/proctoring-system.png"
+  src="/projects/proctoring-system.png"
   alt="Exam Proctoring System"
   className="w-full h-52 object-cover"
 />
@@ -460,14 +460,13 @@ Featured Projects
     </div>
 
     <a
-      href="https://github.com/durgaprasadgannoji"
-      target="_blank"
-      rel="noreferrer"
-      className="inline-flex items-center gap-2 mt-6 text-blue-400 hover:text-blue-300"
-    >
-      <FaGithub />
-      View Project
-    </a>
+  href="https://xam-proctor.netlify.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center gap-2 mt-6 text-blue-400 hover:text-blue-300"
+>
+  🚀 Live Demo
+</a>
 
   </div>
 </motion.div>
